@@ -1,0 +1,13 @@
+/*.theme-dark .navbar .navbar-brand {
+        color: #2f3949;
+    }
+
+    .theme-dark .navbar .navbar-brand:focus,
+    .theme-dark .navbar .navbar-brand:hover {
+        color: #2f3949;
+        opacity: .8
+    }*/
+
+    .theme-dark .nav-tabs .nav-link.active {
+    color: #fff;
+}
